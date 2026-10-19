@@ -1,0 +1,9 @@
+New portfolio enquiry
+
+Name: {{ name }}
+Email: {{ email }}
+Phone / WhatsApp: {{ phone }}
+Service: {{ service_label }}
+
+Message:
+{{ message }}
